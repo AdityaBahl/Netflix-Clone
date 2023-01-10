@@ -1,9 +1,5 @@
 # Netflix Clone
 
-## To Run
-
-https://adityabahl.github.io/Netflix-Clone/
-
 ## View
 
 ### Banner visible
@@ -13,6 +9,10 @@ https://adityabahl.github.io/Netflix-Clone/
 ### After scrolling just a little
 
 ![image2](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample1.png)
+
+## To Run
+
+https://adityabahl.github.io/Netflix-Clone/
 
 ## Technologies Used
 
