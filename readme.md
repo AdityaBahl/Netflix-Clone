@@ -18,7 +18,6 @@ https://adityabahl.github.io/Netflix-Clone/
 
 1. HTML
 2. CSS
-3. JavaScript
 
 ## Why Netflix Clone?
 
