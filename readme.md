@@ -1,7 +1,5 @@
 # Netflix Clone
 
-## View
-
 ### Banner visible
 
 ![image1](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample2.png)
@@ -14,7 +12,7 @@
 
 https://adityabahl.github.io/Netflix-Clone/
 
-(Note: For some reason, a warning may appear that the site is dangerous, it is due to faulty algorithm from their end, as this site is not a usual website but just for demonstration purposes, dont worry, please proceed when prompted!)
+(Note: For some reason, a warning may appear that the site is dangerous, it is due to faulty algorithm from Google's end, as this site is not a usual website but just for demonstration purposes, dont worry, please proceed when prompted!)
 
 ## Technologies Used
 
