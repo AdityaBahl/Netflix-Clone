@@ -14,6 +14,8 @@
 
 https://adityabahl.github.io/Netflix-Clone/
 
+(Note: For some reason, a warning may appear that the site is dangerous, it is due to faulty algorithm from their end, as this site is not a usual website but just for demonstration purposes, dont worry, please proceed when prompted!)
+
 ## Technologies Used
 
 1. HTML
