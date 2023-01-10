@@ -1,6 +1,18 @@
 # Netflix Clone
 
-Visit: https://adityabahl.github.io/Netflix-Clone/
+### To Run
+
+https://adityabahl.github.io/Netflix-Clone/
+
+# View
+
+### Banner visible
+
+![image1](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample1.png)
+
+#### After scrolling just a little
+
+![image2](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample2.png)
 
 # Technologies Used
 
@@ -8,9 +20,9 @@ Visit: https://adityabahl.github.io/Netflix-Clone/
 2. CSS
 3. JavaScript
 
-# Why Online Image Viewer?
+# Why Netflix Clone?
 
-There are several motivations for using an Online Image Viewer, some of which are:
+There are several motivations for using an Netflix Clone, some of which are:
 
 # Challenges and limitations
 
