@@ -1,32 +1,32 @@
 # Netflix Clone
 
-### To Run
+## To Run
 
 https://adityabahl.github.io/Netflix-Clone/
 
-# View
+## View
 
 ### Banner visible
 
 ![image1](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample1.png)
 
-#### After scrolling just a little
+### After scrolling just a little
 
 ![image2](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample2.png)
 
-# Technologies Used
+## Technologies Used
 
 1. HTML
 2. CSS
 3. JavaScript
 
-# Why Netflix Clone?
+## Why Netflix Clone?
 
 There are several motivations for using an Netflix Clone, some of which are:
 
-# Challenges and limitations
+## Challenges and limitations
 
-# Conclusion
+## Conclusion
 
 I learned many new techniques and enjoyed the process. There were a lot of problems, but
 removing errors is what we must learn. The project may not give accurate results in some cases as
