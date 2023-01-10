@@ -29,8 +29,7 @@ There are several motivations for using an Netflix Clone, some of which are:
 ## Conclusion
 
 I learned many new techniques and enjoyed the process. There were a lot of problems, but
-removing errors is what we must learn. The project may not give accurate results in some cases as
-mentioned above, and there are quite a few correct solutions too, I will explore this domain further.
+removing errors is what we must learn. I will explore this domain further.
 
 ### MIT Licence
 
