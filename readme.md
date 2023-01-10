@@ -8,11 +8,11 @@ https://adityabahl.github.io/Netflix-Clone/
 
 ### Banner visible
 
-![image1](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample1.png)
+![image1](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample2.png)
 
 ### After scrolling just a little
 
-![image2](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample2.png)
+![image2](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample1.png)
 
 ## Technologies Used
 
