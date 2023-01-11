@@ -29,6 +29,24 @@ There are a number of reasons to create a Netflix clone:
 
 ## Challenges and limitations
 
+Some of the main challenges include:
+
+1. Content acquisition: Netflix has spent billions of dollars on acquiring the rights to a large and diverse library of content. It would be difficult and costly for a clone to acquire similar content rights.
+
+2. User experience and interface design: Netflix has a highly polished and user-friendly interface that is easy to navigate. Creating a clone that is equally user-friendly would be a significant challenge.
+
+3. Scalability: Netflix handles a large number of concurrent users and streams, and creating a clone that can handle the same level of traffic would be a technical challenge.
+
+4. Security: Netflix implements robust security measures to protect user data and prevent unauthorized access to content. Implementing similar security measures in a clone would be a major challenge.
+
+5. Legal and copyright issues: as a replica of a popular service, it could be facing legal issues with copyright infringement, and intellectual property rights.
+
+6. Cost: Building a platform like Netflix is a huge undertaking that requires a large amount of resources and funding.
+
+Additionally, there are limitations on a clone which Netflix already has, like the user data, and the audience, that clone would not have the same advantages, and would start from scratch.
+
+Hence, to avoid all that this project just tries to emulate the front-end aspect of the website.
+
 ## Conclusion
 
 I learned many new techniques and enjoyed the process. There were a lot of problems, but
