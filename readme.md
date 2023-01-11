@@ -24,8 +24,7 @@ https://adityabahl.github.io/Netflix-Clone/
 There are a number of reasons to create a Netflix clone:
 
 1. Educational or learning purposes- to gain a deeper understanding of how the platform works and how it is built.
-2. Serves as an exercise in software development- helping to improve skills in areas such as user experience design, database management, and scalability.
-3. To provide similar service in certain regions where Netflix is not available, or creating a new business model with their own brand.
+2. Serves as an exercise in software development- helping to improve skills in areas such as user experience design and scalability.
 
 ## Challenges and limitations
 
