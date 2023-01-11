@@ -45,7 +45,7 @@ Some of the main challenges include:
 
 Additionally, there are limitations on a clone which Netflix already has, like the user data, and the audience, that clone would not have the same advantages, and would start from scratch.
 
-Hence, to avoid all that this project just tries to emulate the front-end aspect of the website.
+Hence, to avoid all that, this project just tries to emulate the front-end aspect of the website.
 
 ## Conclusion
 
