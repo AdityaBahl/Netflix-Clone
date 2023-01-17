@@ -2,11 +2,11 @@
 
 ### Banner visible
 
-![image1](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample2.png)
+![sample1](https://user-images.githubusercontent.com/90335449/213012882-1bd1fe78-c90a-4bbb-826e-5591da94fd12.png)
 
 ### After scrolling just a little
 
-![image2](https://github.com/AdityaBahl/Netflix-Clone/blob/main/images/sample1.png)
+![sample2](https://user-images.githubusercontent.com/90335449/213012905-94442d52-fa9a-4978-9d03-9fe21bdd8cb1.png)
 
 ## To Run
 
