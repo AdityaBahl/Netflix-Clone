@@ -50,9 +50,7 @@ Hence, to avoid all that, this project just tries to emulate the front-end aspec
 
 In the context of a student project, creating a clone of the Netflix platform can be an excellent learning opportunity. It allows students to gain a deeper understanding of how such a platform works and how it is built. It can serve as a valuable exercise in software development, helping students improve their skills in areas such as user experience design, database management, and scalability. However, it's important to keep in mind that creating a fully functional and polished clone of the Netflix platform is a significant undertaking that would require a high level of technical expertise and would be very time-consuming. Therefore it's crucial to scope the project and set realistic goals that students can achieve within the time frame and resources available. Also, It's important to work on the project under the legal and ethical guidelines, any violation of copyright laws or trademark rights should be avoided.
 
-###
-
-Contributors
+### Contributors
 
 @abhi-j
 
